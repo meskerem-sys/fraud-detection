@@ -1,0 +1,12 @@
+# Ignore raw and processed data directories
+data/
+
+# Ignore local trained machine learning models
+models/
+
+# Python environment and cache files
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
